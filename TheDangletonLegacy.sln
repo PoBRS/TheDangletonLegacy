@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftwareLogic", "SoftwareLogic\SoftwareLogic.vcxproj", "{F4937D06-4E16-48DD-89EA-7B183F6776DF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TP3_Game_UI", "UserInterface\TP3 - DangletonLegacy.vcxproj", "{224AE39C-9612-4FFB-96D3-B646952B74F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataDeposit", "DataDeposit\DataDeposit.vcxproj", "{591CCDD2-3FA0-4498-910D-748C07BB43E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestTheDangletonLegacy", "TestTheDangletonLegacy\TestTheDangletonLegacy.vcxproj", "{F8F5C5C5-C566-4D09-A2DE-14629FA04A48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4937D06-4E16-48DD-89EA-7B183F6776DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F4937D06-4E16-48DD-89EA-7B183F6776DF}.Debug|Win32.Build.0 = Debug|Win32
+		{F4937D06-4E16-48DD-89EA-7B183F6776DF}.Release|Win32.ActiveCfg = Release|Win32
+		{F4937D06-4E16-48DD-89EA-7B183F6776DF}.Release|Win32.Build.0 = Release|Win32
+		{224AE39C-9612-4FFB-96D3-B646952B74F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{224AE39C-9612-4FFB-96D3-B646952B74F3}.Debug|Win32.Build.0 = Debug|Win32
+		{224AE39C-9612-4FFB-96D3-B646952B74F3}.Release|Win32.ActiveCfg = Release|Win32
+		{224AE39C-9612-4FFB-96D3-B646952B74F3}.Release|Win32.Build.0 = Release|Win32
+		{591CCDD2-3FA0-4498-910D-748C07BB43E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{591CCDD2-3FA0-4498-910D-748C07BB43E1}.Debug|Win32.Build.0 = Debug|Win32
+		{591CCDD2-3FA0-4498-910D-748C07BB43E1}.Release|Win32.ActiveCfg = Release|Win32
+		{591CCDD2-3FA0-4498-910D-748C07BB43E1}.Release|Win32.Build.0 = Release|Win32
+		{F8F5C5C5-C566-4D09-A2DE-14629FA04A48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8F5C5C5-C566-4D09-A2DE-14629FA04A48}.Debug|Win32.Build.0 = Debug|Win32
+		{F8F5C5C5-C566-4D09-A2DE-14629FA04A48}.Release|Win32.ActiveCfg = Release|Win32
+		{F8F5C5C5-C566-4D09-A2DE-14629FA04A48}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
